@@ -1,0 +1,2 @@
+webpackJsonp([4],{"3Bun":function(e,n,r){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var t={render:function(){var e=this.$createElement,n=this._self._c||e;return n("div",[n("router-view")],1)},staticRenderFns:[]};var u=r("VU/8")({name:"Opensource"},t,!1,function(e){r("r5Tk")},null,null);n.default=u.exports},r5Tk:function(e,n){}});
+//# sourceMappingURL=4.ca50256916b375aa4f88.js.map
